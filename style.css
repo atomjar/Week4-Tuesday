@@ -1,0 +1,13 @@
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+li {
+  border: thin solid black;
+  width: 15em;
+  height: 20em;
+  list-style: none;
+  font-size: 15px;
+}
